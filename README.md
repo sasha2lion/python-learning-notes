@@ -13,3 +13,8 @@ I update this repository as I learn.
 ## How to run
 
 python basics/variables.py
+
+
+## Goal
+
+Practice Python basics and improve coding skills.
