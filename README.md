@@ -9,3 +9,7 @@ This repository contains my learning progress in Python.
 - Functions
 
 I update this repository as I learn.
+
+## How to run
+
+python basics/variables.py
